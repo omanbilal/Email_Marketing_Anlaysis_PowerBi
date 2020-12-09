@@ -1,5 +1,5 @@
 # Email_Marketing_Anlaysis_PowerBi
-One of the best advantages of working in the digital world is you can measure pretty much everything you want. Some of the important metrics or KPI's to track are:
+One of the best advantages of working in the digital world is you can measure pretty much everything you want. Some of the important metrics or KPI's to track are:<br><br>
 <b>Important Email Marketing KPI's</b>
 
 Formula to calculate these metrics:
